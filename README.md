@@ -1,6 +1,6 @@
 ### Hi there! 😁 
 
-My name is Lourdilene Souza from Brazil (🇧🇷). I am a Software Engineering, my professional journey encompasses working with software requirements, programming, and consultancy within agile frameworks across diverse sectors such as education, e-commerce, financial markets, and marketing. 
+My name is Lourdilene Souza from Brazil (🇧🇷). I am a Software Engineer, my professional journey encompasses working with software requirements, programming, and consultancy within agile frameworks across diverse sectors such as education, e-commerce, financial markets, and marketing. 
 
 Passionate about books (📚), nature (🍃), philosophy (📜) and never turns down a good cup of hot tea! (🍵)
 
