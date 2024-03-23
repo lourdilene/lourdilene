@@ -41,7 +41,7 @@ Accumulating over 7 years of experience in Software Engineering, my professional
 <br/>
 
 <a href="https://github.com/lourdilene" title="Lourdilene Profile`s">
-  <img height="180em" width="95%" src="https://github-readme-stats.vercel.app/api?username=lourdilene&theme=dracula&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=lourdilene&layout=compact)" />
+  <img height="180em" width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lourdilene&layout=compact" />
 </a>
 
 <br/>
