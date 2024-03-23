@@ -1,8 +1,8 @@
 ### Hi there! 😁 
 
-My name is Lourdilene Souza from Brazil (🇧🇷). Passionate about books, nature, conversation, philosophy, and never turns down a good cup of hot tea!
+My name is Lourdilene Souza from Brazil (🇧🇷). I am a Software Engineering, my professional journey encompasses working with software requirements, programming, and consultancy within agile frameworks across diverse sectors such as education, e-commerce, financial markets, and marketing. 
 
-Accumulating over 7 years of experience in Software Engineering, my professional journey encompasses working with software requirements, programming, and consultancy within agile frameworks across diverse sectors such as education, e-commerce, financial markets, and marketing. Currently, a Software Developer for over 3 years.
+Passionate about books (📚), nature (🍃), philosophy (📜) and never turns down a good cup of hot tea! (🍵)
 
 ### My Skills
 
@@ -32,11 +32,11 @@ Accumulating over 7 years of experience in Software Engineering, my professional
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-<br/>
 
 <a href="https://github.com/lourdilene" title="Lourdilene Profile`s">
   <img height="180em" width="95%" src="https://github-readme-stats.vercel.app/api?username=lourdilene&theme=dracula&show_icons=true" />
 </a>
+
 
 Would you like to find me?
 
