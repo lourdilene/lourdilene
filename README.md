@@ -38,6 +38,8 @@ Accumulating over 7 years of experience in Software Engineering, my professional
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lourdilene&theme=dracula&show_icons=true" />
 </a>
 
+[![Lourdilene's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lourdilene)](https://github.com/lourdilene/github-readme-stats)
+
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lourdilene-souza)](https://www.linkedin.com/in/lourdilene-souza)
