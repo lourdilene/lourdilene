@@ -35,10 +35,16 @@ Accumulating over 7 years of experience in Software Engineering, my professional
 <br/>
 
 <a href="https://github.com/lourdilene" title="Lourdilene Profile`s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lourdilene&theme=dracula&show_icons=true" />
+  <img height="180em" width="95%" src="https://github-readme-stats.vercel.app/api?username=lourdilene&theme=dracula&show_icons=true" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lourdilene&layout=compact)
+<br/>
+
+<a href="https://github.com/lourdilene" title="Lourdilene Profile`s">
+  <img height="180em" width="95%" src="https://github-readme-stats.vercel.app/api?username=lourdilene&theme=dracula&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=lourdilene&layout=compact)" />
+</a>
+
+<br/>
 
 Would you like to find me?
 
@@ -47,7 +53,7 @@ Would you like to find me?
 
 <!--
 **lourdilene/lourdilene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lourdilene&layout=compact)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
